@@ -1,1 +1,2 @@
-Welcome to Coral Springs
+**Welcome to Coral Springs**
+*Everything Under The Sun*
